@@ -4,7 +4,7 @@ Bypass Meta Business Suite SSL pinning on iOS devices.
 
 ## 📌 Latest Bypassed and Tested App Details
 - App version: **483.0.0.42.107**
-- Architecture: **arm64-v8a, armeabi-v7a, X86_64**
+- Architecture: **arm64-v8a**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Charles](https://charlesproxy.com/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/glod_usa](https://t.me/glod_usa)
 

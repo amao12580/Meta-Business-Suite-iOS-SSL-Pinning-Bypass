@@ -1,4 +1,4 @@
-# Meta-Business-Suit-iOS-SSL-Pinning-Bypass
+# Meta-Business-Suite-iOS-SSL-Pinning-Bypass
 Bypass Meta Business Suite SSL pinning on iOS devices.
 
 
@@ -12,7 +12,7 @@ Bypass Meta Business Suite SSL pinning on iOS devices.
 ![Business Suite iOS](assets/v483.png)
 
 ## ✅ Other Apps
-1. [Business Suite Android](https://github.com/amao12580/Meta-Business-Suit-Android-SSL-Pinning-Bypass)
+1. [Business Suite Android](https://github.com/amao12580/Meta-Business-Suite-Android-SSL-Pinning-Bypass)
 
 ## 📦 Contact Telegram
   - For any issues, contact me on Telegram. Read README.md carefully before use.
